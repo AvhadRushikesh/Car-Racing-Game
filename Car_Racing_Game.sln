@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car_Racing_Game", "Car_Racing_Game\Car_Racing_Game.csproj", "{CF62BD16-4E82-4460-BDD2-B8564F242DB3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CAR_RACE", "CAR_RACE\CAR_RACE.vdproj", "{171CEC1C-54BE-4EED-B9D0-DE23868A4BDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF62BD16-4E82-4460-BDD2-B8564F242DB3}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{CF62BD16-4E82-4460-BDD2-B8564F242DB3}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{CF62BD16-4E82-4460-BDD2-B8564F242DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF62BD16-4E82-4460-BDD2-B8564F242DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171CEC1C-54BE-4EED-B9D0-DE23868A4BDB}.Debug|Any CPU.ActiveCfg = Debug
+		{171CEC1C-54BE-4EED-B9D0-DE23868A4BDB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F149C85-A593-4ED8-8675-700D395FDAED}
+	EndGlobalSection
+EndGlobal
